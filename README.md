@@ -22,12 +22,4 @@
 
 ###
 
-<img align="left" height="200" src="https://media.tenor.com/qPfptozn4j8AAAAd/yofukashi-no-uta-call-of-the-night.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maksymilian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-###
+<img align="center" height="200" src="https://media.tenor.com/qPfptozn4j8AAAAd/yofukashi-no-uta-call-of-the-night.gif"  />
